@@ -5,6 +5,9 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
+* [Survey and Tutorial](#survey-and-tutorial)
+* [Multimodal Learning](#multimodal-learning)
+
 ## 0.Survey and Tutorial
 
 ### Survey
