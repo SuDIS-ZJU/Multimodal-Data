@@ -8,6 +8,11 @@ Table of Contents
 ## 0. Survey and Tutorial
 
 ### Survey
+
+* [Retrieving Multimodal Information for Augmented Generation: A Survey](https://arxiv.org/pdf/2303.10868.pdf)
+
+* Multi-Modal Hashing for Efficient Multimedia Retrieval: A Survey
+
 ### Tutorial
 
 ## 1.Multimodal Learning
