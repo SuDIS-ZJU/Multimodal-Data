@@ -1,5 +1,6 @@
 # Multimodal-Data
-Multimodal Data Management and Database works
+Multimodal Data Management and Database works.
+
 Kindly let us know if we have missed any great papers. Thank you!
 
 Table of Contents
