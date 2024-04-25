@@ -6,14 +6,14 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
-* [Survey and Tutorial](#survey-and-tutorial)
-* [Multimodal Learning](#multimodal-learning)
-* [Multimodal Retrieval](#multimodal-retrieval)
-* 
+0. [Survey and Tutorial](#survey-and-tutorial)
+1. [Multimodal Learning](#multimodal-learning)
+2. [Multimodal Retrieval](#multimodal-retrieval)
 
 
 
-## 0.Survey and Tutorial
+
+## 0. Survey and Tutorial
 
 ### Survey
 
@@ -26,15 +26,18 @@ Table of Contents
 ### Tutorial
 * [Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)(ICML2023)
 
-## 1.Multimodal Learning
+## 1. Multimodal Learning
+   
 * [Multimodal deep learning](https://arxiv.org/pdf/2301.04856.pdf)(ICML2011)
 * [What Makes Multi-modal Learning Better than Single (Provably)](https://proceedings.neurips.cc/paper/2021/file/5aa3405a3f865c10f420a4a7b55cbff3-Paper.pdf)(nips2021)
   
 
 
-## 2.Multimodal Retrieval 
+## 2. Multimodal Retrieval 
 * [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality](https://arxiv.org/pdf/2312.06397.pdf)(ICDE2024)
 * [Efficient and Effective Multi-Modal Queries through Heterogeneous Network Embedding](https://ieeexplore.ieee.org/abstract/document/9328543)(TKDE2021)
 * [Symphony: Towards natural language query answering over multi-modal data lakes](https://www.cidrdb.org/cidr2023/papers/p51-chen.pdf)(CIDR2023)
 * [CAESURA: Language Models as Multi-Modal Query Planners](https://arxiv.org/pdf/2308.03424.pdf)(CIDR2024)
+
+  
 ## 3.
