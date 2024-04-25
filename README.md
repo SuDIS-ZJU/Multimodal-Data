@@ -6,9 +6,9 @@ Kindly let us know if we have missed any great papers. Thank you!
 Table of Contents
 =================
 
-0. [Survey and Tutorial](#survey-and-tutorial)
-1. [Multimodal Learning](#multimodal-learning)
-2. [Multimodal Retrieval](#multimodal-retrieval)
+0. [Survey and Tutorial](#0-survey-and-tutorial)
+1. [Multimodal Learning](#1-multimodal-learning)
+2. [Multimodal Retrieval](#2-#multimodal-retrieval)
 
 
 
