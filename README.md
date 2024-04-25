@@ -8,7 +8,7 @@ Table of Contents
 
 0. [Survey and Tutorial](#0-survey-and-tutorial)
 1. [Multimodal Learning](#1-multimodal-learning)
-2. [Multimodal Retrieval](#2-#multimodal-retrieval)
+2. [Multimodal Retrieval](#2-multimodal-retrieval)
 
 
 
