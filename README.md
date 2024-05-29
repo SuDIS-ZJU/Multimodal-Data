@@ -51,7 +51,8 @@ Table of Contents
 * [Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches](https://openreview.net/pdf?id=asB4B-9zHlo)(ACL2023)-YZY
 
 ### Benchmark
-
+* [Rethinking Benchmarks for Cross-modal Image-text Retrieval](https://arxiv.org/pdf/2304.10824)(SIGIR2023)-ZM
+* [COLA: A Benchmark for Compositional Text-to-image Retrieval](https://arxiv.org/pdf/2305.03689)(NeurIPS2023)-ZM
 
 ## 3.Tabular Data
 * [TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/pdf/2005.08314)(ACL2020)-YZY
