@@ -10,6 +10,8 @@ Table of Contents
 1. [Multimodal Learning](#1-multimodal-learning)
 2. [Multimodal Retrieval](#2-multimodal-retrieval)
 3. [Tabular Data](#3-tabular-data)
+4. [Data Centric](#4-data-centric)
+   
 
 
 
@@ -24,7 +26,9 @@ Table of Contents
 * [Multimodal machine learning: A survey and taxonomy](https://arxiv.org/pdf/1705.09406.pdf)(TPAMI2018)-YZY
 * [How to Bridge the Gap between Modalities: A Comprehensive Survey on Multi-modal Large Language Model](https://arxiv.org/pdf/2311.07594.pdf)(arxiv2023)-YZY
 * [A Survey of Multimodal Large Language Model from A Data-centric Perspective](https://arxiv.org/pdf/2405.16640)(arxiv May2024)-YZY
-
+* [Multimodal Machine Learning: A Survey and Taxonomy](https://arxiv.org/abs/1705.09406)-YZY
+* [Large-scale Multi-modal Pre-trained Models: A Comprehensive Survey](https://link.springer.com/10.1007/s11633-022-1410-8)-YZY
+* [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700)-YZY
 
 ### Tutorial
 * [Tutorial on MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-tutorial/icml2023/)(ICML2023)-YZY
@@ -36,6 +40,8 @@ Table of Contents
 * [GETTING ALIGNED ON REPRESENTATIONAL ALIGNMENT](https://arxiv.org/pdf/2310.13018.pdf)()-YZY
 * [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)(ICML2023)-YZY
 * [Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch17)(ICDE2024)-YZY
+* [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](http://arxiv.org/abs/2309.10020)-YZY
+* 
   
 
 
@@ -57,3 +63,11 @@ Table of Contents
 ## 3.Tabular Data
 * [TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/pdf/2005.08314)(ACL2020)-YZY
 * [Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training](https://openreview.net/pdf?id=asB4B-9zHlo)-YZY
+
+
+## 4.Data Centric
+* [How Large Language Models Will Disrupt Data Management](https://dl.acm.org/doi/10.14778/3611479.3611527)(VLDB2023)-YZY
+* [Beyond Scale: the Diversity Coefficient as a Data Quality Metric Demonstrates LLMs are Pre-trained on Formally Diverse Data](https://arxiv.org/abs/2306.13840)(ICML2023)-YZY
+* [From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning](https://arxiv.org/abs/2308.12032)(NAACL2024)-YZY
+* [Adaptive data augmentation for supervised learning over missing data](https://dl.acm.org/doi/10.14778/3450980.3450989)(VLDB2021)-YZY
+* [Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective](http://arxiv.org/abs/2112.06409)-YZY
