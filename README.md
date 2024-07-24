@@ -11,6 +11,7 @@ Table of Contents
 2. [Multimodal Retrieval](#2-multimodal-retrieval)
 3. [Tabular Data](#3-tabular-data)
 4. [Data Centric](#4-data-centric)
+5. [Augmentations for multimodal data](#5-augmentations-for-multimodal-data)
    
 
 
@@ -50,7 +51,7 @@ Table of Contents
 
 ## 2. Multimodal Retrieval 
 * [MUST: An Effective and Scalable Framework for Multimodal Search of Target Modality](https://arxiv.org/pdf/2312.06397.pdf)(ICDE2024)-YZY
-* [Efficient and Effective Multi-Modal Queries through Heterogeneous Network Embedding](https://ieeexplore.ieee.org/abstract/document/9328543)(TKDE2021)-YZY
+* [Efficient and Effective Multi-Modal Queries through Heterogeneous Network Embedding](https://ieeexplore.ieee.org/abstract/document/9328543)(TKDE2021)-YZY, ZM
 * [Symphony: Towards natural language query answering over multi-modal data lakes](https://www.cidrdb.org/cidr2023/papers/p51-chen.pdf)(CIDR2023)-YZY
 * [CAESURA: Language Models as Multi-Modal Query Planners](https://arxiv.org/pdf/2308.03424.pdf)(CIDR2024)-YZY
 * [Scalable Deep Multimodal Learning for Cross-Modal Retrieval](https://dl.acm.org/doi/10.1145/3331184.3331213)(SIGIR2019)-YZY
@@ -66,12 +67,12 @@ Table of Contents
 * [CoVR: Learning Composed Video Retrieval from Web Video Captions](https://arxiv.org/pdf/2308.14746)(AAAI2024)-ZM
 * [MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media](https://dl.acm.org/doi/pdf/10.1145/3539618.3591896)(SIGIR2023)-ZM
 
-## 3.Tabular Data
+## 3. Tabular Data
 * [TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/pdf/2005.08314)(ACL2020)-YZY
 * [Learning Contextual Representations for Semantic Parsing with Generation-Augmented Pre-Training](https://openreview.net/pdf?id=asB4B-9zHlo)-YZY
 
 
-## 4.Data Centric
+## 4. Data Centric
 * [How Large Language Models Will Disrupt Data Management](https://dl.acm.org/doi/10.14778/3611479.3611527)(VLDB2023)-YZY
 * [Beyond Scale: the Diversity Coefficient as a Data Quality Metric Demonstrates LLMs are Pre-trained on Formally Diverse Data](https://arxiv.org/abs/2306.13840)(ICML2023)-YZY
 * [From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning](https://arxiv.org/abs/2308.12032)(NAACL2024)-YZY
@@ -79,5 +80,5 @@ Table of Contents
 * [Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective](http://arxiv.org/abs/2112.06409)-YZY
 
 
-## 5.Augmentations for multimodal data
+## 5. Augmentations for multimodal data
 * [Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning](https://arxiv.org/pdf/2306.11065)(ACL2023)-ZM
