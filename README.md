@@ -41,7 +41,10 @@ Table of Contents
 * [Provable Dynamic Fusion for Low-Quality Multimodal Data](https://proceedings.mlr.press/v202/zhang23ar/zhang23ar.pdf)(ICML2023)-YZY
 * [Towards Semantic Consistency: Dirichlet Energy Driven Robust Multi-Modal Entity Alignment](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch17)(ICDE2024)-YZY
 * [Multimodal Foundation Models: From Specialists to General-Purpose Assistants](http://arxiv.org/abs/2309.10020)-YZY
-* 
+* [Learning Transferable Visual Models From Natural Language Supervision (CLIP)](https://helios.ntua.gr/pluginfile.php/144713/mod_folder/content/0/Multimodal%20tasks/Learning%20Transferable%20Visual%20Models%20From%20Natural%20Language%20Supervision.pdf)(ICML2021)-ZM
+* [Attention Is All You Need (Transformer)](https://arxiv.org/pdf/1706.03762)(NeurIPS)-ZM
+* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Vision Transformer, ViT)](https://arxiv.org/pdf/2010.11929)-ZM
+* [Deep Residual Learning for Image Recognition (ResNet)](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)(CVPR2016)-ZM
   
 
 
@@ -55,10 +58,13 @@ Table of Contents
 * [Multimodal Graph Learning for Cross-Modal Retrieval](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch17)(SDM2023)-YZY
 * [End-to-end Knowledge Retrieval with Multi-modal Queries](https://aclanthology.org/2023.acl-long.478.pdf)(ACl2023)-YZY
 * [Multimodal Chart Retrieval: A Comparison of Text, Table and Image Based Approaches](https://openreview.net/pdf?id=asB4B-9zHlo)(ACL2023)-YZY
+* [Make: Vision-language pre-training based product retrieval in taobao search](https://arxiv.org/pdf/2301.12646)(WWW2023)-ZM
 
 ### Benchmark
 * [Rethinking Benchmarks for Cross-modal Image-text Retrieval](https://arxiv.org/pdf/2304.10824)(SIGIR2023)-ZM
 * [COLA: A Benchmark for Compositional Text-to-image Retrieval](https://arxiv.org/pdf/2305.03689)(NeurIPS2023)-ZM
+* [CoVR: Learning Composed Video Retrieval from Web Video Captions](https://arxiv.org/pdf/2308.14746)(AAAI2024)-ZM
+* [MR2: A Benchmark for Multimodal Retrieval-Augmented Rumor Detection in Social Media](https://dl.acm.org/doi/pdf/10.1145/3539618.3591896)(SIGIR2023)-ZM
 
 ## 3.Tabular Data
 * [TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/pdf/2005.08314)(ACL2020)-YZY
@@ -71,3 +77,7 @@ Table of Contents
 * [From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning](https://arxiv.org/abs/2308.12032)(NAACL2024)-YZY
 * [Adaptive data augmentation for supervised learning over missing data](https://dl.acm.org/doi/10.14778/3450980.3450989)(VLDB2021)-YZY
 * [Data Collection and Quality Challenges in Deep Learning: A Data-Centric AI Perspective](http://arxiv.org/abs/2112.06409)-YZY
+
+
+## 5.Augmentations for multimodal data
+* [Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning](https://arxiv.org/pdf/2306.11065)(ACL2023)-ZM
